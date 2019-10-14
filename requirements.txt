@@ -25,7 +25,7 @@ django-taggit==0.17.5
 django-tastypie==0.12.2
 django-urlarchivefield==0.0.8
 EasyProcess==0.1.4
-ecdsa==0.13
+ecdsa==0.13.3
 entrypoint2==0.0.5
 envoy==0.0.2
 Fabric==1.4.1
