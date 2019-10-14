@@ -63,5 +63,5 @@ unicodecsv==0.9.4
 webkit2png==0.8.2
 wheel==0.24.0
 internetarchive
-pyopenssl==17.3.0
+pyopenssl==17.5.0
 ndg-httpsclient==0.4.3
