@@ -33,7 +33,7 @@ greeking==0.131
 htmlmin==0.1.5
 httplib2==0.7.4
 kombu==3.0.29
-lxml==2.3.4
+lxml==4.6.3
 mimeparse==0.1.3
 newrelic==2.56.0.42
 -e git://github.com/jacobian/openstack.compute.git@89c5c6a3fcc0864e6de2a8bc10bcaf93b13a259e#egg=openstack.compute-master
