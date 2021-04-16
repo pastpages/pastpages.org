@@ -16,7 +16,7 @@ defusedxml==0.4.1
 Django==1.8.7
 django-celery==3.1.17
 django-cumulus==1.0.5
-django-debug-toolbar==1.4
+django-debug-toolbar==1.11.1
 -e git+https://github.com/pastpages/django-memento.git@HEAD#egg=django_memento_framework-master
 django-picklefield==0.1.9
 django-robots==1.1
