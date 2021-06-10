@@ -13,7 +13,7 @@ celery==3.1.19
 cssutils==0.9.8a3
 decorator==3.3.2
 defusedxml==0.4.1
-Django==1.8.7
+Django==2.2.24
 django-celery==3.1.17
 django-cumulus==1.0.5
 django-debug-toolbar==1.4
